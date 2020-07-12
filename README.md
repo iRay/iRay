@@ -1,6 +1,6 @@
 ## Technical Skills
 
-<table><tr><td valign="top">
+<table style="width: 100%"><tr><td valign="top">
 
 ### Python
 <!-- python start -->
