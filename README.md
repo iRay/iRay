@@ -1,8 +1,7 @@
 ## Technical Skills
 
 <table>
-<tr>
-<td valign="top">
+<tr><td valign="top">
 
 ### Python
 <!-- python start -->
@@ -10,8 +9,7 @@
 * [Flask](https://flask.palletsprojects.com/)
 * [Django](https://www.djangoproject.com/)
 <!-- python end -->
-</td>
-<td valign="top">
+</td><td valign="top">
 
 ### JavaScript
 <!-- javascript start -->
@@ -19,8 +17,7 @@
 * [MySQL](https://www.mysql.com/)
 * [React](https://reactjs.org/)
 <!-- javascript end -->
-</td>
-<td valign="top">
+</td><td valign="top">
 
 ### Tools and Services
 <!-- tools and services start -->
@@ -33,9 +30,8 @@
 * [Linux](https://en.wikipedia.org/wiki/Linux)
 * [macOS](https://en.wikipedia.org/wiki/MacOS)
 <!-- tools and services start -->
-</td>
-<tr>
-<td valign="top">
+</td></tr>
+<tr><td valign="top">
 
 ### Databases
 <!-- databases start -->
@@ -43,23 +39,20 @@
 * [MySQL](https://www.mysql.com/)
 * [MongoDB](https://www.mongodb.com/)
 <!-- databases end -->
-</td>
-<td valign="top">
+</td><td valign="top">
 
 ### PHP
 <!-- php start -->
 * [Laravel](https://laravel.com/)
 * [Symfony](https://symfony.com/)
 <!-- php end -->
-</td>
-<td valign="top">
+</td><td valign="top">
 
 ### Cloud-Based Technologies
 <!-- cloud-based start -->
 * [Docker](https://www.docker.com/)
 * [AWS](https://aws.amazon.com/)
 <!-- cloud-based end -->
-</td>
-</tr>
+</td></tr>
 
 </table>
