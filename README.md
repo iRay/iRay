@@ -1,7 +1,6 @@
 ## Technical Skills
 
-<table>
-<tr><td valign="top">
+<table><tr><td valign="top">
 
 ### Python
 <!-- python start -->
@@ -30,8 +29,7 @@
 * [Linux](https://en.wikipedia.org/wiki/Linux)
 * [macOS](https://en.wikipedia.org/wiki/MacOS)
 <!-- tools and services start -->
-</td></tr>
-<tr><td valign="top">
+</td></tr><tr><td valign="top">
 
 ### Databases
 <!-- databases start -->
@@ -53,6 +51,4 @@
 * [Docker](https://www.docker.com/)
 * [AWS](https://aws.amazon.com/)
 <!-- cloud-based end -->
-</td></tr>
-
-</table>
+</td></tr></table>
