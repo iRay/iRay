@@ -2,9 +2,10 @@
 
 I'm Alexander Kovalev, software engineer and maker.
 
+<br><br><br>
 <p align="center">
 Technologies that i use
-<br>
+<br><br><br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="70" height="70"/>
