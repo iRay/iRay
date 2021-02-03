@@ -1,54 +1,22 @@
-## Technical Skills
+### Hi there 👋
 
-<table style="width: 100%"><tr><td valign="top">
+I'm Alexander Kovalev, software engineer and maker.
 
-### Python
-<!-- python start -->
-* [aiohttp](https://docs.aiohttp.org/en/stable/)
-* [Flask](https://flask.palletsprojects.com/)
-* [Django](https://www.djangoproject.com/)
-<!-- python end -->
-</td><td valign="top">
+<p align="center">
+Technologies that i use
+<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="saas" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="70" height="70"/>
+<br>
 
-### JavaScript
-<!-- javascript start -->
-* [Vue/Vuex](https://vuejs.org/)
-* [MySQL](https://www.mysql.com/)
-* [React](https://reactjs.org/)
-<!-- javascript end -->
-</td><td valign="top">
+#### My Github account statistics:
 
-### Tools and Services
-<!-- tools and services start -->
-* [Nginx](https://nginx.org/)
-* [Git](https://git-scm.com/)
-* [Docker](https://www.docker.com/)
-* [Webpack](https://webpack.js.org/)
-* [Jira](https://www.atlassian.com/software/jira)
-* [Confluence](https://www.atlassian.com/software/confluence)
-* [Linux](https://en.wikipedia.org/wiki/Linux)
-* [macOS](https://en.wikipedia.org/wiki/MacOS)
-<!-- tools and services start -->
-</td></tr><tr><td valign="top">
-
-### Databases
-<!-- databases start -->
-* [PostgreSQL](https://www.postgresql.org/)
-* [MySQL](https://www.mysql.com/)
-* [MongoDB](https://www.mongodb.com/)
-<!-- databases end -->
-</td><td valign="top">
-
-### PHP
-<!-- php start -->
-* [Laravel](https://laravel.com/)
-* [Symfony](https://symfony.com/)
-<!-- php end -->
-</td><td valign="top">
-
-### Cloud-Based Technologies
-<!-- cloud-based start -->
-* [Docker](https://www.docker.com/)
-* [AWS](https://aws.amazon.com/)
-<!-- cloud-based end -->
-</td></tr></table>
+![github stats](https://github-readme-stats.vercel.app/api?username=iRay&show_icons=true&line_height=24&&count_private=true)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iRay&layout=compact&langs_count=10)
