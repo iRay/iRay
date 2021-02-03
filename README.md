@@ -2,7 +2,7 @@
 
 I'm Alexander Kovalev, software engineer and maker.
 
-<br><br><br>
+<br>
 <p align="center">
 Technologies that i use
 <br><br><br>
