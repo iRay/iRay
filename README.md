@@ -17,8 +17,3 @@ Technologies that i use
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="saas" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="70" height="70"/>
 <br>
-
-#### My Github account statistics:
-
-![github stats](https://github-readme-stats.vercel.app/api?username=iRay&show_icons=true&line_height=24&&count_private=true)
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iRay&layout=compact&langs_count=10)
